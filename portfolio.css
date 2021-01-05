@@ -37,7 +37,7 @@ body{
     font-size: 30px;
     align-items: center;
     height:85vh;
-    background-image: url(images/about.jpg);
+    background-image: url(about.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
